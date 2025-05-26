@@ -1,3 +1,8 @@
+main {
+    max-width: 480px;
+    margin: 0 auto;
+}
+
 nav {
     background-color: darkblue;
     padding: 10px;
@@ -7,6 +12,7 @@ nav a {
     color: white;
     display: block;
     padding: 20px;
+    text-decoration: none;
 }
 
 h1 {
@@ -25,3 +31,11 @@ p {
     padding: 10px;
 }
 
+aside {
+    width: 300px;
+    margin: 20px auto;
+    border: 2px solid darkblue;
+    padding: 15px;
+    background-color: #f0f8ff;
+    color: #333;
+}
