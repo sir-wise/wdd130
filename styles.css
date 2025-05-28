@@ -1,6 +1,5 @@
 main {
     max-width: 480px;
-    margin: 0 auto;
 }
 
 nav {
@@ -32,10 +31,11 @@ p {
 }
 
 aside {
-    width: 300px;
-    margin: 20px auto;
-    border: 2px solid darkblue;
-    padding: 15px;
-    background-color: #f0f8ff;
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    background-color: #eee;
     color: #333;
+    text-align: center;
 }
